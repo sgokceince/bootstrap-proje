@@ -1,0 +1,21 @@
+
+.navbar {
+    background-color: darkslategray !important;
+}
+
+.jumbotron {
+    background-color: #E9ECEF;
+}
+.card-body {
+    display: block !important;
+    text-align: center !important;
+}
+
+.card-title {
+    display: block !important;
+    text-align: center !important;
+}
+.card {
+    margin-top: 15px;
+}
+
